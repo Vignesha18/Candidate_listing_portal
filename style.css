@@ -1,0 +1,64 @@
+body{
+    background-color:aliceblue;
+}
+.container-fluid .section1 .textbox input {
+    border:none;
+    background-color:wheat;
+    padding: 8px;
+    
+}
+.container-fluid .section1{
+    
+}
+.container-fluid .section1 .textbox{
+    position: relative;
+}
+.container-fluid .section1 .textbox .siva{
+    background-color: rgba(207, 189, 189, 0.39);
+ border: none;
+ outline: none;
+ padding: 8px 20px;
+    
+}
+.container-fluid .section1 .textbox button {
+    position: absolute;
+    right: 0px;
+}
+.container-fluid .section1 h6{
+    text-align: center;
+    
+    background-color: rgba(156, 161, 161, 0.267);
+}
+.container-fluid .section1 .cardgroup .card .card-body .header img{
+   width: 70px;
+   height: 65px;
+}
+.container-fluid .section1 .cardgroup .card .card-body .header .head h5{
+    font-size: 15px;
+}
+.container-fluid .section1 .cardgroup .card .card-body .header .head1{
+    margin-left: 300px;
+}
+.container-fluid .section1 .cardgroup .card .card-body .header .head1 .lead{
+    font-size: 16px;
+}
+.container-fluid .section1 .cardgroup .card .card-body .header p{
+    background-color: none;
+} 
+
+
+
+.section2{
+
+}
+.section2 .profile img{
+    width: 60px;
+    height: 50px;
+}
+.section2 form .div input{
+    margin-bottom: 15px;
+    font-weight:bolder;
+    text-shadow: 2px 2px black;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
